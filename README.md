@@ -67,7 +67,7 @@ Currently leading a development team on a healthcare project at Codea IT while a
 ![](https://github-contributor-stats.vercel.app/api?username=SantiTabbach&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santiago-tabbach/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@santitabbach) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-tabbach/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@santitabbach) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SantiTabbach&icon=2&color=5)](https://visitcount.itsvg.in)
