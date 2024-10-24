@@ -1,12 +1,16 @@
 # 💫 About Me:
 
-Software Engineer with hands-on experience in web and mobile development. Highly proficient in React and React Native, with knowledge on NodeJS, Express and NestJS.
-
-Currently leading a development team on a healthcare project at Codea IT→while also collaborating with municipalities on a personal initiative developed alongside colleagues.
-
-<div style="text-align: right;">
-  <img src="https://ar.pinterest.com/pin/448741550378224856/" alt="Descripción de la imagen" width="200"/>
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
+  <div>
+    <p>
+    Software Engineer with hands-on experience in web and mobile development. Highly proficient in React and React Native, with knowledge on NodeJS, Express and NestJS.
+  </p>
+  <p>Currently leading a development team on a healthcare project at Codea IT while also collaborating with municipalities on a personal initiative developed alongside colleagues.
+  </p>
+  </div>
+  <img src="./9d9bd13afce1a798d22ecfd9897730ed.gif" alt="Descripción del GIF" width="200"/>
 </div>
+
 # 👨🏻‍💻 Work experience:
 <p align="center">Codea IT</p>
 
