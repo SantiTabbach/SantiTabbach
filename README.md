@@ -1,14 +1,15 @@
 # 💫 About Me:
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
-  <div>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
     <p>
-    Software Engineer with hands-on experience in web and mobile development. Highly proficient in React and React Native, with knowledge on NodeJS, Express and NestJS.
-  </p>
-  <p>Currently leading a development team on a healthcare project at Codea IT while also collaborating with municipalities on a personal initiative developed alongside colleagues.
-  </p>
+      Software Engineer with hands-on experience in web and mobile development. Highly proficient in React and React Native, with knowledge on NodeJS, Express and NestJS.
+    </p>
+    <p>
+      Currently leading a development team on a healthcare project at Codea IT while also collaborating with municipalities on a personal initiative developed alongside colleagues.
+    </p>
   </div>
-  <img src="./9d9bd13afce1a798d22ecfd9897730ed.gif" alt="Descripción del GIF" width="200"/>
+  <img src="./9d9bd13afce1a798d22ecfd9897730ed.gif" alt="compu" width="200" style="max-width: 200px; height: auto;"/>
 </div>
 
 # 👨🏻‍💻 Work experience:
