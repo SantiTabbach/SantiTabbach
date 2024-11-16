@@ -12,7 +12,7 @@ Currently leading a development team on a healthcare project at Codea IT while a
 
 - ### Lead Developer · *Aug 2024 - Present*
 
-*Leading the development of a mobile application that allows users to sync BLE medical devices and obtain enriched information.*
+*Leading the development of a mobile application for the healthcare field that allows diabetic patients to track their glucose levels, nutrition, exercise, etc., and share it with their doctor.*
 
 **Tech stack**:  
 `React Native` · `Expo` · `Ble PLX` · `Zustand` · `TanStack Query` · `TypeScript` · `NestJS` · `Postgres`
