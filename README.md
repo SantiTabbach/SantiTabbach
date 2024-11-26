@@ -4,7 +4,7 @@ Software Engineer with hands-on experience in web and mobile development. Highly
 Currently leading a development team on a healthcare project at Codea IT while also collaborating with municipalities on a personal initiative developed alongside colleagues.
 
 <p align="center">
-  <img src="./bongo-cat-pixel-doodle.gif" alt="compu" width="200" style="max-width: 200px; height: auto;"/>
+  <img src="./cat-coding.gif" alt="compu" width="200" style="max-width: 200px; height: auto;"/>
 </p>
 
 # 👨🏻‍💻 Work experience:
