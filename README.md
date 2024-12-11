@@ -1,8 +1,6 @@
 # 💫 About Me:
 Software Engineer with hands-on experience in web and mobile development. Highly proficient in React and React Native, with knowledge on NodeJS, Express and NestJS.
 
-Currently leading a development team on a healthcare project at Codea IT while also collaborating with municipalities on a personal initiative developed alongside colleagues.
-
 <p align="center">
   <img src="./cat-coding.gif" alt="compu" width="200" style="max-width: 200px; height: auto;"/>
 </p>
@@ -10,7 +8,7 @@ Currently leading a development team on a healthcare project at Codea IT while a
 # 👨🏻‍💻 Work experience:
 <p align="center">Codea IT</p>
 
-- ### Lead Developer · *Aug 2024 - Present*
+- ### Lead Developer · *Aug 2024 - Nov 2024*
 
 *Leading the development of a mobile application for the healthcare field that allows diabetic patients to track their glucose levels, nutrition, exercise, etc., and share it with their doctor.*
 
