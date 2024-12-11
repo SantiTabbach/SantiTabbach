@@ -2,7 +2,7 @@
 Software Engineer with hands-on experience in web and mobile development. Highly proficient in React and React Native, with knowledge on NodeJS, Express and NestJS.
 
 <p align="center">
-  <img src="./cat-coding.gif" alt="compu" width="200" style="max-width: 200px; height: auto;"/>
+  <img src="./cat.gif" alt="compu" width="200" style="max-width: 200px; height: auto;"/>
 </p>
 
 # 👨🏻‍💻 Work experience:
