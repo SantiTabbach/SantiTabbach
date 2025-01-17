@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Software Engineer with hands-on experience in web and mobile development. Highly proficient in React and React Native, with knowledge on NodeJS, Express and NestJS.
 
 <p align="center">
